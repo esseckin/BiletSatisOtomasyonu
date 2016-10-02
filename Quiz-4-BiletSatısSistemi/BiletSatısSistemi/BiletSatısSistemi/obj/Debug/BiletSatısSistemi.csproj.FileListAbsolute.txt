@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\BiletSatısSistemi\BiletSatısSistemi\bin\Debug\BiletSatısSistemi.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\BiletSatısSistemi\BiletSatısSistemi\bin\Debug\BiletSatısSistemi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\BiletSatısSistemi\BiletSatısSistemi\bin\Debug\BiletSatısSistemi.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\BiletSatısSistemi\BiletSatısSistemi\obj\Debug\BiletSatısSistemi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\BiletSatısSistemi\BiletSatısSistemi\obj\Debug\BiletSatısSistemi.pdb
+D:\alıstırmalar\projeler\BiletSatısSistemi\BiletSatısSistemi\bin\Debug\BiletSatısSistemi.exe.config
+D:\alıstırmalar\projeler\BiletSatısSistemi\BiletSatısSistemi\bin\Debug\BiletSatısSistemi.exe
+D:\alıstırmalar\projeler\BiletSatısSistemi\BiletSatısSistemi\bin\Debug\BiletSatısSistemi.pdb
+D:\alıstırmalar\projeler\BiletSatısSistemi\BiletSatısSistemi\obj\Debug\BiletSatısSistemi.exe
+D:\alıstırmalar\projeler\BiletSatısSistemi\BiletSatısSistemi\obj\Debug\BiletSatısSistemi.pdb
